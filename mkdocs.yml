@@ -6,6 +6,6 @@ theme:
 markdown_extensions:
     - toc:
         permalink: "#"
-edit_uri: edit/develop/docs/
+edit_uri: edit/main/docs/
 site_description: The documentation for Verbose Guacamole, the Markdown and Git powered novel editor.
 site_author: Benjamin Hollon and the Verbose Guacamole contributors
